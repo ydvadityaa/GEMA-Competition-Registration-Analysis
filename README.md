@@ -42,7 +42,7 @@ Major cleaning steps included:
 - Preservation of the original country field for auditability
 
 ## Files
-- `GEMA_Excel_Assignment_GitHub.xlsx` — complete analysis workbook and dashboard
+- `GEMA_Competition_Registration_Analysis.xlsx` — complete analysis workbook and dashboard
 - `GEMA_Cleaned_Dataset_GitHub.xlsx` — cleaned dataset used for analysis
 - `MANAGEMENT_SUMMARY.md` — concise business findings and recommendations
 - `DATA_CLEANING_NOTES.md` — cleaning methodology and assumptions
